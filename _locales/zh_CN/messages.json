@@ -1,0 +1,20 @@
+{
+   "appDesc": {
+      "message": "多维度分析 Codeforces 个人资料，支持双语和高清图片导出。"
+   },
+   "appName": {
+      "message": "Codeforces Analytics — Neo Glass"
+   },
+   "btnGoToCF": {
+      "message": "前往 Codeforces"
+   },
+   "btnViewDemo": {
+      "message": "查看效果"
+   },
+   "popupDesc": {
+      "message": "插件已激活！请前往 Codeforces 个人主页查看丰富的可视化分析图表。"
+   },
+   "popupTitle": {
+      "message": "Codeforces Analytics — Neo Glass"
+   }
+}
