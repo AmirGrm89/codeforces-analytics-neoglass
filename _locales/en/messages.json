@@ -1,0 +1,20 @@
+{
+   "appDesc": {
+      "message": "Analyze Codeforces profiles with 8 dimensions, bilingual support, and high-res image export."
+   },
+   "appName": {
+      "message": "Codeforces Analytics — Neo Glass"
+   },
+   "btnGoToCF": {
+      "message": "Go to Codeforces"
+   },
+   "btnViewDemo": {
+      "message": "View Demo"
+   },
+   "popupDesc": {
+      "message": "The extension is active! Please visit a Codeforces profile page to view the analytics charts."
+   },
+   "popupTitle": {
+      "message": "Codeforces Analytics — Neo Glass"
+   }
+}
