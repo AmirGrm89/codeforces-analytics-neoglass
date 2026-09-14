@@ -13,15 +13,7 @@ Turn any Codeforces profile into a full analytics dashboard. This extension fetc
 ## Features
 
 - 📊 **Problem Ratings** — distribution of solved problems by difficulty
-- 📈 **Activity Timeline (Monthly)** — your monthly submission activity over time
-- 🗓️ **Submission Heatmap** — a mini activity heatmap inside the dashboard
 - 🏷️ **Tags Solved** — most-practiced problem tags
-- 💻 **Programming Language** — breakdown of languages used in submissions
-- ✅ **Verdict Distribution** — AC / WA / TLE / MLE breakdown
-- 🎯 **Average Attempts to AC** — problems solved on the first try vs. ones that took multiple attempts
-- ⚡ **Execution Performance** — runtime vs. problem rating scatter plot
-- 💾 **Memory Usage** — memory (KB) vs. problem rating
-- 👥 **Participant Type** — breakdown by contest participation type
 - 📝 **Unsolved Tracker** — quick links back to problems you haven't finished
 - 📸 **One-Click Image Export** — generate a high-res shareable image of your stats
 - 🌐 **4 Languages** — English, 中文, فارسی, हिन्दी
